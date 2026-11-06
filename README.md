@@ -1,5 +1,2 @@
-# Rogue MMORPG Character Studio
-
-Live site: https://yuriknight01-web.github.io/roguemmorpg/
-
-Bilingual character idle, hit reaction and attack previews.
+# Abyss Expedition / 深渊远征
+Bilingual Unity MVP showcase with original character art, composed animation videos, and dice exploration. Ultimate actions remain in development.
